@@ -41,7 +41,5 @@ const lucas = {
     "Prisma"
   ],
 
-  projetoAtual: "PlayNext 🎮",
-
   objetivo: "Transformar ideias em aplicações reais"
 };
