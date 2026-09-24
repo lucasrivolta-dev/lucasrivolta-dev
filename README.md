@@ -89,21 +89,11 @@ preferências e interações do usuário para ajudar a encontrar novos títulos.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake.svg?v=2"
+  alt="Snake animation"
+/>
 
 </div>
 
