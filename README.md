@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! Eu sou o Lucas Rodrigues Rivolta 👋
 
-<!--
-**lucasrivolta-dev/lucasrivolta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas**, interessado em desenvolvimento
+mobile, backend e criação de produtos digitais.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo o **PlayNext**, uma plataforma de descoberta de
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jogos focada em recomendações personalizadas e uma experiência de navegação
+baseada em trailers.
+
+## 🚀 Tecnologias
+
+- Flutter / Dart
+- Node.js
+- TypeScript
+- PostgreSQL
+- Prisma
+- APIs REST
+- Git e GitHub
+
+## 🎮 Projeto em destaque
+
+### PlayNext
+
+Aplicação para descoberta de jogos através de um feed vertical de trailers e
+recomendações personalizadas.
+
+O projeto possui aplicação em **Flutter**, backend em **Node.js + TypeScript**,
+banco de dados **PostgreSQL** e integrações com serviços externos para obtenção
+de informações sobre jogos.
+
+## 📚 Formação
+
+🎓 Estudante de Desenvolvimento de Sistemas — SENAI
+
+## 📫 Contato
+
+- GitHub: @lucasrivolta-dev
+- LinkedIn: em breve
