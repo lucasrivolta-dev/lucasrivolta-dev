@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Olá, eu sou o Lucas Rivolta</h1>
 
 <p align="center">
@@ -7,7 +6,7 @@
 
 <p align="center">
   Gosto de transformar ideias em aplicações reais, explorando principalmente
-  desenvolvimento mobile, backend e produtos digitais.
+  desenvolvimento mobile, backend e criação de produtos digitais.
 </p>
 
 ---
@@ -29,12 +28,12 @@
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=lucasrivolta-dev&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=lucasrivolta-dev&show_icons=true&theme=tokyonight"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrivolta-dev&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrivolta-dev&layout=compact&theme=tokyonight"
 />
 
 </div>
