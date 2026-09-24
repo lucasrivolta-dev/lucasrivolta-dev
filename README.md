@@ -1,19 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Lucas%20Rivolta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20%7C%20Backend%20%7C%20Games&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:312E81,100:7C3AED&height=190&section=header&text=Lucas%20Rivolta&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Backend%20%7C%20Product%20Development&descAlignY=55&descSize=16"/>
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=1000&lines=Estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Flutter+%2B+Node.js+%2B+TypeScript+%2B+PostgreSQL;Criando+o+PlayNext+%F0%9F%8E%AE;Transformando+ideias+em+produtos+digitais"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas+%40+SENAI;Flutter+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Construindo+o+PlayNext+%F0%9F%8E%AE" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/lucasrivolta-dev">
-  <img src="https://img.shields.io/badge/GitHub-lucasrivolta--dev-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-lucasrivolta--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:lucas.rivolta@aluno.senai.br">
-  <img src="https://img.shields.io/badge/Email-Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -22,88 +20,68 @@
 
 ## 👾 Sobre mim
 
-```typescript
+```ts
 const lucas = {
-  formação: "Desenvolvimento de Sistemas - SENAI",
-
-  foco: [
-    "Desenvolvimento Mobile",
-    "Backend",
-    "Produtos Digitais"
-  ],
-
-  tecnologias: [
-    "Flutter",
-    "Dart",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "Prisma"
-  ],
-
-  projetoAtual: "PlayNext — Game Discovery Platform 🎮",
-
-  objetivo: "Transformar ideias em aplicações reais"
+  curso: "Desenvolvimento de Sistemas - SENAI",
+  foco: ["Mobile", "Backend", "Produtos Digitais"],
+  projetoAtual: "PlayNext 🎮",
+  objetivo: "Criar produtos que resolvam problemas reais"
 };
 ```
 
+Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos em desenvolvimento mobile e backend.
+
+Gosto principalmente de transformar ideias em projetos reais e aprender durante o processo de desenvolvimento.
+
 <br>
 
-## ⚡ Tech Stack
+## ⚡ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,ts,js,postgres,prisma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,ts,js,postgres,prisma,git,github,vscode&theme=dark"/>
 
 </div>
 
 <br>
 
-## 🎮 Atualmente construindo
+## 🎮 Projeto atual — PlayNext
 
 <div align="center">
 
-### PlayNext
+### Encontre seu próximo jogo.
 
-**Descubra seu próximo jogo.**
-
-Uma plataforma de descoberta de jogos baseada em trailers, preferências e recomendações personalizadas.
-
-</div>
+O **PlayNext** é uma plataforma de descoberta de jogos que utiliza trailers,
+preferências e interações do usuário para ajudar a encontrar novos títulos.
 
 <br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/lucasrivolta-dev/Projeto-PlayFind">
-  <img src="https://img.shields.io/badge/🎮_VER_PLAYNEXT-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/ABRIR_PLAYNEXT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-## 🚀 O que estou estudando
+## 🧠 Atualmente estudando
 
-- 📱 Desenvolvimento mobile com **Flutter**
-- ⚙️ APIs e backend com **Node.js + TypeScript**
-- 🗄️ Banco de dados com **PostgreSQL**
-- 🧠 Sistemas de recomendação e personalização
-- 🔗 Integração com APIs externas
-- 🛠️ Git, GitHub e boas práticas de desenvolvimento
+- Desenvolvimento mobile com **Flutter**
+- APIs REST com **Node.js e TypeScript**
+- Bancos relacionais com **PostgreSQL**
+- **Prisma ORM**
+- Sistemas de recomendação
+- Integração com APIs externas
+- Git e GitHub
 
 <br>
 
@@ -121,7 +99,8 @@ Uma plataforma de descoberta de jogos baseada em trailers, preferências e recom
     srcset="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Animação das contribuições do GitHub"
+    width="100%"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/lucasrivolta-dev/lucasrivolta-dev/output/github-contribution-grid-snake.svg"
   />
 </picture>
@@ -130,16 +109,12 @@ Uma plataforma de descoberta de jogos baseada em trailers, preferências e recom
 
 <br>
 
-## 📫 Contato
+## 📬 Contato
 
 <div align="center">
 
 <a href="mailto:lucas.rivolta@aluno.senai.br">
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="COLOQUE-SEU-LINKEDIN-AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -148,8 +123,8 @@ Uma plataforma de descoberta de jogos baseada em trailers, preferências e recom
 
 <div align="center">
 
-### 💻 Código, ideias e evolução constante.
+**Construindo. Aprendendo. Evoluindo.**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1120&height=100&section=footer"/>
