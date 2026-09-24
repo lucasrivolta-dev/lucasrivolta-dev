@@ -22,12 +22,32 @@
 
 ```ts
 const lucas = {
-  curso: "Desenvolvimento de Sistemas - SENAI",
-  foco: ["Mobile", "Backend", "Produtos Digitais"],
-  projetoAtual: "PlayNext 🎮",
-  objetivo: "Criar produtos que resolvam problemas reais"
+  formação: "Desenvolvimento de Sistemas - SENAI",
+
+  áreasEstudadas: [
+    "Desenvolvimento Web",
+    "Backend e APIs",
+    "Banco de Dados",
+    "Desenvolvimento Mobile",
+    "IoT e Sistemas Embarcados"
+  ],
+
+  tecnologias: [
+    "C# / .NET",
+    "JavaScript / TypeScript",
+    "React / Next.js",
+    "React Native / Expo",
+    "Flutter / Dart",
+    "Node.js",
+    "SQL / PostgreSQL / SQL Server",
+    "ESP32 / Arduino"
+  ],
+
+  projetoPessoal: "PlayNext 🎮",
+
+  objetivo:
+    "Aprofundar minha formação construindo aplicações completas, do front-end e APIs ao mobile, banco de dados e IoT"
 };
-```
 
 Sou estudante de **Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos em desenvolvimento mobile e backend.
 
