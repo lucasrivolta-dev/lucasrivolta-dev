@@ -18,7 +18,7 @@
 
 <br>
 
-## 👾 Sobre mim
+##  Sobre mim
 
 ```ts
 const lucas = {
@@ -56,24 +56,24 @@ Além dos projetos acadêmicos, gosto de colocar o conhecimento em prática em p
 
 <br>
 
-## 🎓 Experiência acadêmica
+##  Experiência acadêmica
 
 Durante minha formação em **Desenvolvimento de Sistemas no SENAI**, venho trabalhando com:
 
-- 🌐 **Desenvolvimento Web** — HTML, CSS e JavaScript
-- ⚛️ **Front-end moderno** — React, Next.js e TypeScript
-- ⚙️ **Backend e APIs REST** — C#, ASP.NET Core e Node.js
-- 🧩 **Programação Orientada a Objetos e arquitetura MVC**
-- 🗄️ **Banco de Dados** — SQL, SQL Server e PostgreSQL
-- 🔗 **Entity Framework Core e integração com APIs**
-- 🔐 **Autenticação e documentação de APIs** — JWT e Swagger
-- 📱 **Desenvolvimento Mobile** — React Native, Expo, Flutter e Dart
-- 🤖 **IoT e Sistemas Embarcados** — ESP32, Arduino e PlatformIO
-- 🔧 **Versionamento de código** — Git e GitHub
+-  **Desenvolvimento Web** — HTML, CSS e JavaScript
+-  **Front-end moderno** — React, Next.js e TypeScript
+-  **Backend e APIs REST** — C#, ASP.NET Core e Node.js
+-  **Programação Orientada a Objetos e arquitetura MVC**
+-  **Banco de Dados** — SQL, SQL Server e PostgreSQL
+-  **Entity Framework Core e integração com APIs**
+-  **Autenticação e documentação de APIs** — JWT e Swagger
+-  **Desenvolvimento Mobile** — React Native, Expo, Flutter e Dart
+-  **IoT e Sistemas Embarcados** — ESP32, Arduino e PlatformIO
+-  **Versionamento de código** — Git e GitHub
 
 <br>
 
-## ⚡ Tecnologias
+##  Tecnologias
 
 ### 🎓 Formação / SENAI
 
@@ -85,7 +85,7 @@ Durante minha formação em **Desenvolvimento de Sistemas no SENAI**, venho trab
 
 <br>
 
-### 🚀 Projetos pessoais
+###  Projetos pessoais
 
 <div align="center">
 
@@ -119,18 +119,6 @@ O **PlayNext** é uma plataforma de descoberta de jogos desenvolvida para ajudar
 </a>
 
 </div>
-
-<br>
-
-## 🧠 Conhecimentos que estou aprofundando
-
-- Arquitetura e desenvolvimento de **APIs**
-- Desenvolvimento de aplicações **mobile**
-- Integração entre **front-end, backend e banco de dados**
-- Boas práticas e organização de projetos
-- Sistemas de recomendação e personalização
-- Integração com serviços e APIs externas
-- Git, GitHub e fluxo de desenvolvimento em equipe
 
 <br>
 
